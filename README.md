@@ -1,4 +1,4 @@
-# Momenutm-app
+# Momentum-app
 * * *
 <img src="/demo/main1.png" width="60%" height="40%" alt="main screen"></img>
 
@@ -6,7 +6,7 @@
 * * *
 <img src="/demo/main2.png" width="40%" height="30%" alt="game"></img>
 
-> 벌레잡기 게임은 random으로 벌레와 벌레의 개수가 정해지면 잔디에서 해당 벌레를 제한시간 안에 제거하는 게임입니다.
+> momentum은 구글 확장프로그램으로 로그인 정보 저장, 날씨, 시간, 체크리스트를 출력해주는 앱입니다. 
 
 ⭐️ __1. 배경이 랜덤하게 변화__
 
@@ -29,3 +29,5 @@
 
 ## 느낀점
 * * *
+로그인 정보를 local에 저장하는 부분에서 조금 시간이 걸린 것을 제외하고는 재미있게 프로젝트를 할 수 있었다. 
+
